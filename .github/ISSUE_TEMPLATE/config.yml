@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or workflow idea
+    url: https://github.com/industrialtwin/feedback/discussions
+    about: Ask how to do something, or share a workflow.
+  - name: Sales and licences
+    url: mailto:hello@industrialtwin.app
+    about: Pro, Team and Enterprise questions.
